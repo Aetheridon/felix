@@ -127,3 +127,8 @@ venv.bak/
 
 # MACOS Files and Property file
 .DS_Store
+
+# My self hosted configs
+.config.json
+.state.json
+./python/felix.sqlite
